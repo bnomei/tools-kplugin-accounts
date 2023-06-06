@@ -1,7 +1,7 @@
 <?php
 
-namespace auaust\accounts;
+namespace AUAUST\Accounts;
 
-class Database
+class AccountsDatabase
 {
 }
